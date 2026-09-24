@@ -11,3 +11,4 @@ dist/
 .env.*
 *.pem
 *.key
+.tools/

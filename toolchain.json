@@ -1,0 +1,10 @@
+{
+  "python_version": "3.10.12",
+  "source": "Installed Ubuntu python3.10-minimal and libpython3.10-stdlib packages, copied executable and standard library as real local files",
+  "ubuntu_package_version": "3.10.12-1~22.04.18",
+  "python_relative_path": ".tools/python/bin/python3.10",
+  "environment_python": ".venv/bin/python",
+  "executable_sha256": "a2f33a6e006989270f4340528eb61f8f97366e00a5d1b602ac8672ea44fc56ae",
+  "stdlib_files": 704,
+  "base_runtime_requires": "WSL Linux system libc, libm, libexpat, libz and extension shared libraries; no external Python interpreter or standard-library directory"
+}
